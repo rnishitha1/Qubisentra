@@ -78,11 +78,6 @@ For real authentication:
 
 The Bloch sphere is a **2D projection**, not a 3D graphics engine. The simulator is educational; it models ideal noiseless gates and measurements, without hardware noise or decoherence. The circuit supports **exactly two qubits**. Complex state amplitudes are rounded only when displayed, not during calculations. In the 2-qubit circuit, q0 is the most significant bit and CNOT uses the selected wire as the control. Repeated measurements are random samples generated in-browser.
 
-## University project and attribution
-
-The project code was generated for the requested website prototype. Review, understand, test, and modify the code yourself; follow your professor's policy on acknowledgement of AI assistance and outside sources. Add references for the quantum educational content. Do not claim you implemented verified secure auth without setting up and testing Supabase.
-
-
 ## v2 Classic Theme
 The original Qubisentra navy, electric blue, violet and cyan glow theme has been restored and polished. All advanced labs, header account entry, and footer privacy links remain. No extra packages or font downloads are needed.
 
